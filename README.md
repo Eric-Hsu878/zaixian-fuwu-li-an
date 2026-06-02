@@ -1,4 +1,4 @@
-# Court Filing Material Check
+# zaixian-fuwu-li-an
 
 一个用于中国法院网上立案材料核对的 Codex skill。它帮助 agent 在上传材料前先判断案件类型、核对材料类别，并避免把未签字、未盖章或不符合法院要求的文件误当作正式立案材料提交。
 
