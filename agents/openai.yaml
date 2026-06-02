@@ -1,0 +1,4 @@
+interface:
+  display_name: "Court Filing Material Check"
+  short_description: "Check Chinese court online filing materials before upload."
+  default_prompt: "Use this skill to classify and verify litigation filing materials before online court filing, especially identity proof and attorney authorization materials."
